@@ -1,3 +1,17 @@
+# TODO - Autumn 2023
+
+To review
+- https://makersportal.com/shop/mlx90640-thermal-camera-for-raspberry-pi-32-x-24-pixels
+- https://www.flir.com/developer/lepton-integration/lepton-integration-raspberry-pi/
+- https://www.reddit.com/r/raspberry_pi/comments/10a3ycs/why_such_low_resolution_for_thermal_camera/
+- https://circuitdigest.com/microcontroller-projects/thermal-camera-with-raspberry-pi-and-cjmcu-8833-thermal-image-array-temperature-sensor
+- https://how2electronics.com/diy-thermal-camera-with-raspberry-pi-amg8833-sensor/
+- https://hackaday.com/2023/03/14/pocket-sized-thermal-imager/
+- https://cormack.xyz/PiThermal/
+
+
+-----
+
 # Raspberry Pi Thermal Camera in Real Time with MLX90640 and Python
 
 Full tutorial and demo at: https://makersportal.com/blog/2020/6/8/high-resolution-thermal-camera-with-raspberry-pi-and-mlx90640 <br><br>
