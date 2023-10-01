@@ -1,4 +1,4 @@
-# TODO - Autumn 2023
+# TODO - (sources below added Autumn 2023)
 
 To review
 - https://makersportal.com/shop/mlx90640-thermal-camera-for-raspberry-pi-32-x-24-pixels
